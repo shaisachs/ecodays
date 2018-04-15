@@ -1,0 +1,10 @@
+- name: Earth Day
+  month: 4
+  day: 22
+  url: https://en.wikipedia.org/wiki/Earth_Day
+
+- name: World Environment Day
+  month: 6
+  day: 6
+  url: https://en.wikipedia.org/wiki/World_Environment_Day
+
