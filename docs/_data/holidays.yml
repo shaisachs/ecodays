@@ -2,10 +2,6 @@
   rrule: FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=22
   url: https://en.wikipedia.org/wiki/Earth_Day
 
-- name: World Environment Day
-  rrule: FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=5
-  url: https://en.wikipedia.org/wiki/World_Environment_Day
-
 - name: World Wetlands Day
   rrule: FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=2
   url: https://en.wikipedia.org/wiki/World_Wetlands_Day
@@ -29,3 +25,116 @@
 - name: World Rivers Day
   rrule: FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=9
   url: http://worldriversday.com/
+
+- name: World Sparrow Day
+  rrule: FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=20
+  url:
+
+- name: World Forestry Day
+  rrule: FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=21
+  url:
+
+- name: World Water Day
+  rrule: FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=22
+  url:
+
+- name: World Meteorological Day
+  rrule: FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=23
+  url:
+
+- name: Earth Hour
+  rrule: FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=3
+  url: 
+
+- name: Arbor Day
+  rrule: FREQ=YEARLY;BYDAY=FR;BYSETPOS=-1;BYMONTH=4
+  url: 
+
+- name: National Trails Day
+  rrule: FREQ=YEARLY;BYDAY=SA;BYSETPOS=1;BYMONTH=6
+  url: 
+
+- name: World Environment Day
+  rrule: FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=5
+  url: https://en.wikipedia.org/wiki/World_Environment_Day
+
+- name: World Oceans Day
+  rrule: FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=8
+  url:
+
+- name: International Tiger Day
+  rrule: FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=29
+  url: http://tigerday.org/
+
+- name: National Wildlife Day
+  rrule: FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=4
+  url: 
+
+- name: Clean Up the World Weekend
+  rrule: FREQ=YEARLY;BYDAY=SA;BYSETPOS=3;BYMONTH=9
+  url: http://www.cleanuptheworld.org
+
+- name: Zero Emissions Day
+  rrule: FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=21
+  url:
+
+- name: World Car-Free Day
+  rrule: FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=22
+  url:
+
+- name: World Habitat Day
+  rrule: FREQ=YEARLY;BYDAY=MO;BYSETPOS=1;BYMONTH=10
+  url: 
+
+- name: World Vegetarian Day
+  rrule: FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=1
+  url:
+
+- name: World Vegan Day
+  rrule: FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1
+  url:
+
+- name: World Animal Day
+  rrule: FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=4
+  url:
+
+- name: World Planting Day
+  rrule: FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=22
+  url:
+
+- name: International Day of Climate Action
+  rrule: FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=24
+  url:
+
+- name: World Soil Day
+  rrule: FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=5
+  url:
+
+- name: International Mountain Day
+  rrule: FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=11
+  url:
+
+- name: National Park Week
+  rrule: FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=19
+  url: http://www.nationalparks.org/national-park-week
+
+- name: Dark Sky Week
+  rrule: FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=20
+  url: http://www.darksky.org/int-l-dark-sky-week-main
+
+- name: National Clean Beaches Week
+  rrule: FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=1
+  url:
+
+- name: Bike Week
+  rrule: FREQ=YEARLY;BYDAY=MO;BYSETPOS=2;BYMONTH=6
+  url:
+
+- name: Recycle Week
+  rrule: FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=20
+  url:
+
+- name: Junk Mail Awareness Week
+  rrule: FREQ=YEARLY;BYDAY=MO;BYSETPOS=1;BYMONTH=10
+  url:
+
