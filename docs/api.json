@@ -1,0 +1,179 @@
+{
+    "holidays": [
+        {
+            "name": "Earth Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=22",
+            "url": "https://en.wikipedia.org/wiki/Earth_Day"
+        },
+        {
+            "name": "World Wetlands Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=2",
+            "url": "https://en.wikipedia.org/wiki/World_Wetlands_Day"
+        },
+        {
+            "name": "International Migratory Bird Day",
+            "rrule": "FREQ=YEARLY;BYDAY=SU;BYSETPOS=2;BYMONTH=5",
+            "url": "https://en.wikipedia.org/wiki/Bird_Day#International_Migratory_Bird_Day"
+        },
+        {
+            "name": "Fossil Fools Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=1",
+            "url": "https://en.wikipedia.org/wiki/Fossil_Fools_Day"
+        },
+        {
+            "name": "Global Wind Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=16",
+            "url": "https://en.wikipedia.org/wiki/Global_Wind_Day"
+        },
+        {
+            "name": "Bike-to-Work Day",
+            "rrule": "FREQ=YEARLY;BYDAY=FR;BYSETPOS=3;BYMONTH=5",
+            "url": "https://en.wikipedia.org/wiki/Bike-to-Work_Day"
+        },
+        {
+            "name": "World Rivers Day",
+            "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=9",
+            "url": "http://worldriversday.com/"
+        },
+        {
+            "name": "World Sparrow Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=20",
+            "url": null
+        },
+        {
+            "name": "World Forestry Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=21",
+            "url": null
+        },
+        {
+            "name": "World Water Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=22",
+            "url": null
+        },
+        {
+            "name": "World Meteorological Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=23",
+            "url": null
+        },
+        {
+            "name": "Earth Hour",
+            "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=3",
+            "url": null
+        },
+        {
+            "name": "Arbor Day",
+            "rrule": "FREQ=YEARLY;BYDAY=FR;BYSETPOS=-1;BYMONTH=4",
+            "url": null
+        },
+        {
+            "name": "National Trails Day",
+            "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=1;BYMONTH=6",
+            "url": null
+        },
+        {
+            "name": "World Environment Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=5",
+            "url": "https://en.wikipedia.org/wiki/World_Environment_Day"
+        },
+        {
+            "name": "World Oceans Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=8",
+            "url": null
+        },
+        {
+            "name": "International Tiger Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=29",
+            "url": "http://tigerday.org/"
+        },
+        {
+            "name": "National Wildlife Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=4",
+            "url": null
+        },
+        {
+            "name": "Clean Up the World Weekend",
+            "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=3;BYMONTH=9",
+            "url": "http://www.cleanuptheworld.org"
+        },
+        {
+            "name": "Zero Emissions Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=21",
+            "url": null
+        },
+        {
+            "name": "World Car-Free Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=22",
+            "url": null
+        },
+        {
+            "name": "World Habitat Day",
+            "rrule": "FREQ=YEARLY;BYDAY=MO;BYSETPOS=1;BYMONTH=10",
+            "url": null
+        },
+        {
+            "name": "World Vegetarian Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=1",
+            "url": null
+        },
+        {
+            "name": "World Vegan Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1",
+            "url": null
+        },
+        {
+            "name": "World Animal Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=4",
+            "url": null
+        },
+        {
+            "name": "World Planting Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=22",
+            "url": null
+        },
+        {
+            "name": "International Day of Climate Action",
+            "rrule": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=24",
+            "url": null
+        },
+        {
+            "name": "World Soil Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=5",
+            "url": null
+        },
+        {
+            "name": "International Mountain Day",
+            "rrule": "FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=11",
+            "url": null
+        },
+        {
+            "name": "National Park Week",
+            "rrule": "FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=19",
+            "url": "http://www.nationalparks.org/national-park-week"
+        },
+        {
+            "name": "Dark Sky Week",
+            "rrule": "FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=20",
+            "url": "http://www.darksky.org/int-l-dark-sky-week-main"
+        },
+        {
+            "name": "National Clean Beaches Week",
+            "rrule": "FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=1",
+            "url": null
+        },
+        {
+            "name": "Bike Week",
+            "rrule": "FREQ=YEARLY;BYDAY=MO;BYSETPOS=2;BYMONTH=6",
+            "url": null
+        },
+        {
+            "name": "Recycle Week",
+            "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=20",
+            "url": null
+        },
+        {
+            "name": "Junk Mail Awareness Week",
+            "rrule": "FREQ=YEARLY;BYDAY=MO;BYSETPOS=1;BYMONTH=10",
+            "url": null
+        }
+    ]
+}
