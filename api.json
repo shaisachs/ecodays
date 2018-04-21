@@ -3,7 +3,7 @@
         {
             "name": "Earth Day",
             "rrule": "FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=22",
-            "url": "https://en.wikipedia.org/wiki/Earth_Day"
+            "url": "https://www.earthday.org/"
         },
         {
             "name": "World Wetlands Day",
