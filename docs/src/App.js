@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import rrule from 'rrule';
+import lodash from 'lodash';
 
 
 class App extends Component {
@@ -27,24 +28,34 @@ class App extends Component {
     var inOneYear = new Date();
     inOneYear.setFullYear(inOneYear.getFullYear() + 1);
 
-    var answer = [];
-
-    for (var i = 0; i < this.state.holidays.length; i++) {
-      var holiday = this.state.holidays[i];
-      var rule = rrule.rrulestr(holiday.rrule);
+    var occurrences = lodash.map(this.state.holidays, function(h) {
+      var rule = rrule.rrulestr(h.rrule);
 
       var nextOccurrences = rule.between(today, inOneYear);
       if (!nextOccurrences || !nextOccurrences.length) {
-        continue;
+        return null;
       }
 
-      var nextOccurrence = nextOccurrences[0];
-      var y = nextOccurrence.getFullYear();
-      var m = nextOccurrence.getMonth() + 1;
-      var d = nextOccurrence.getDate();
+      return { holiday: h, nextOccurrence: nextOccurrences[0] };
+    });
 
-      answer.push(<p>{y}/{m}/{d}: {holiday.name} ({holiday.url})</p>);
-    }
+    var compactOccurrences = lodash.compact(occurrences);
+
+    var sortedOccurrences = lodash.sortBy(compactOccurrences,
+      o => o.nextOccurrence.toISOString());
+
+    var answer = lodash.map(sortedOccurrences, function(o) {
+      var y = o.nextOccurrence.getFullYear();
+      var m = o.nextOccurrence.getMonth() + 1;
+      var d = o.nextOccurrence.getDate();
+
+      var url = o.holiday.url;
+      var name = url ?
+        (<a href={url}>{o.holiday.name}</a>) :
+        o.holiday.name;
+
+      return (<p>{y}/{m}/{d}: {name}</p>);
+    });
 
     return answer;
   }
