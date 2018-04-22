@@ -12,8 +12,24 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	padding: 10px;
 }
 
 .credits {
 	text-align: center;
+}
+
+.app {
+	text-align: center;
+	background-color: #f3f3f3;
+	width: 50%;
+    margin-top: 25px;
+    margin-left: 25%;
+    padding: 10px;
+}
+
+.holiday {
+	margin: 10px;
+	padding: 20px;
+	background-color: white;
 }
