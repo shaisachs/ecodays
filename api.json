@@ -63,7 +63,7 @@
         {
             "name": "Arbor Day",
             "rrule": "FREQ=YEARLY;BYDAY=FR;BYSETPOS=-1;BYMONTH=4",
-            "url": null
+            "url": "https://www.arborday.org/"
         },
         {
             "name": "National Trails Day",
