@@ -8,12 +8,12 @@
         {
             "name": "World Wetlands Day",
             "rrule": "FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=2",
-            "url": "https://en.wikipedia.org/wiki/World_Wetlands_Day"
+            "url": "http://www.worldwetlandsday.org/"
         },
         {
             "name": "International Migratory Bird Day",
             "rrule": "FREQ=YEARLY;BYDAY=SU;BYSETPOS=2;BYMONTH=5",
-            "url": "https://en.wikipedia.org/wiki/Bird_Day#International_Migratory_Bird_Day"
+            "url": "http://www.migratorybirdday.org/"
         },
         {
             "name": "Fossil Fools Day",
@@ -23,7 +23,7 @@
         {
             "name": "Global Wind Day",
             "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=16",
-            "url": "https://en.wikipedia.org/wiki/Global_Wind_Day"
+            "url": "https://globalwindday.org/"
         },
         {
             "name": "Bike-to-Work Day",
@@ -32,33 +32,33 @@
         },
         {
             "name": "World Rivers Day",
-            "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=9",
+            "rrule": "FREQ=YEARLY;BYDAY=SU;BYSETPOS=4;BYMONTH=9",
             "url": "http://worldriversday.com/"
         },
         {
             "name": "World Sparrow Day",
             "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=20",
-            "url": null
+            "url": "https://www.worldsparrowday.org/"
         },
         {
             "name": "World Forestry Day",
             "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=21",
-            "url": null
+            "url": "http://www.un.org/en/events/forestsday/"
         },
         {
             "name": "World Water Day",
             "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=22",
-            "url": null
+            "url": "http://worldwaterday.org/"
         },
         {
             "name": "World Meteorological Day",
             "rrule": "FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=23",
-            "url": null
+            "url": "https://public.wmo.int/en/resources/world-meteorological-day"
         },
         {
             "name": "Earth Hour",
             "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=-1;BYMONTH=3",
-            "url": null
+            "url": "https://www.earthhour.org/"
         },
         {
             "name": "Arbor Day",
@@ -68,17 +68,17 @@
         {
             "name": "National Trails Day",
             "rrule": "FREQ=YEARLY;BYDAY=SA;BYSETPOS=1;BYMONTH=6",
-            "url": null
+            "url": "https://americanhiking.org/national-trails-day/"
         },
         {
             "name": "World Environment Day",
             "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=5",
-            "url": "https://en.wikipedia.org/wiki/World_Environment_Day"
+            "url": "http://worldenvironmentday.global/"
         },
         {
             "name": "World Oceans Day",
             "rrule": "FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=8",
-            "url": null
+            "url": "http://www.worldoceansday.org/"
         },
         {
             "name": "International Tiger Day",
@@ -88,7 +88,7 @@
         {
             "name": "National Wildlife Day",
             "rrule": "FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=4",
-            "url": null
+            "url": "http://www.nationalwildlifeday.com/"
         },
         {
             "name": "Clean Up the World Weekend",
@@ -98,7 +98,7 @@
         {
             "name": "Zero Emissions Day",
             "rrule": "FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=21",
-            "url": null
+            "url": "http://zeroemissionsday.org/"
         },
         {
             "name": "World Car-Free Day",
@@ -113,7 +113,7 @@
         {
             "name": "World Vegetarian Day",
             "rrule": "FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=1",
-            "url": null
+            "url": "https://worldvegetarianday.navs-online.org/"
         },
         {
             "name": "World Vegan Day",
